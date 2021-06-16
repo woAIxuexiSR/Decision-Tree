@@ -42,7 +42,7 @@
 
 执行结果如下
 
-![image-20210526211910445](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210526211910445.png)
+![image-20210526211910445](src\images\image-20210526211910445.png)
 
 输出构建决策树使用的时间，树节点的总数，正确率
 
@@ -218,14 +218,14 @@
 
    `tic-tac-toe` : 最高准确率 92.01% > 90.63%
 
-   ![image-20210616142904968](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210616142904968.png)
+   ![image-20210616142904968](src\images\image-20210616142904968.png)
 
    `balance-scale` :  最高准确率 68.25% > 50.79%
 
-   ![image-20210616143111190](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210616143111190.png)
+   ![image-20210616143111190](src\images\image-20210616143111190.png)
 
    `nursery` :  最高准确率 97.30% > 97.07%
 
-   ![image-20210616143628270](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210616143628270.png)
+   ![image-20210616143628270](src\images\image-20210616143628270.png)
 
    在选择最优的参数下，预剪枝的策略能够提升分类的准确率。
