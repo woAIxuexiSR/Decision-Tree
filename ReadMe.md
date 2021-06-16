@@ -218,7 +218,7 @@
 
    `tic-tac-toe` : 最高准确率 92.01% > 90.63%
 
-   ![image-20210616142904968](src\images\image-20210616142904968.png)
+   ![image-20210616142904968](https://github.com/woAIxuexiSR/Decision-Tree/blob/bfb573b67b4a88304546ebfdc7d4c2971e206227/src\images\image-20210616142904968.png)
 
    `balance-scale` :  最高准确率 68.25% > 50.79%
 
